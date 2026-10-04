@@ -20,3 +20,7 @@ node_modules/
 dist/
 build/
 .DS_Store
+
+# Studio <-> watcher hand-off files
+.push-request.json
+.push-state.json
